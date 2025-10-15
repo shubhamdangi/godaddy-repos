@@ -58,6 +58,8 @@ body {
   padding: 10px 15px;
   transition: box-shadow 0.2s ease, transform 0.2s ease;
   min-height: 150px;
+  overflow: hidden;
+  word-wrap: break-word;
 }
 
 .repo-card:hover {
